@@ -1,7 +1,7 @@
 # QR Platba
 
-[![Latest Stable Version](https://poser.pugx.org/miskith/qr-platba/v/stable)](https://packagist.org/packages/miskith/qr-platba)
-[![Total Downloads](https://poser.pugx.org/miskith/qr-platba/downloads)](https://packagist.org/packages/miskith/qr-platba)
+[![Latest Stable Version](https://poser.pugx.org/bonami/qr-platba/v/stable)](https://packagist.org/packages/bonami/qr-platba)
+[![Total Downloads](https://poser.pugx.org/bonami/qr-platba/downloads)](https://packagist.org/packages/bonami/qr-platba)
 [![Build Status](https://travis-ci.com/miskith/QRInvoice.svg)](https://travis-ci.com/miskith/QRInvoice)
 
 Knihovna pro generování QR plateb v PHP. QR platba zjednodušuje koncovému uživateli
@@ -24,7 +24,7 @@ Podporuje PHP ^7.3||^8.0.
 
 ## Instalace pomocí Composeru
 
-`composer require miskith/qr-platba`
+`composer require bonami/qr-platba`
 
 ## Příklad QR platby
 
@@ -152,6 +152,7 @@ echo $qrInvoice->getQRCodeImage(false);
 - Oficiální web QR Faktury - https://qr-faktura.cz/
 - Originální projekt - https://github.com/dfridrich/QRPlatba
 - Inspirace pro originálního developera - https://github.com/snoblucha/QRPlatba
+- Forknuto z - https://github.com/miskith/QRInvoice
 
 ## Contributing
 

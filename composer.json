@@ -1,5 +1,5 @@
 {
-	"name": "miskith/qr-platba",
+	"name": "bonami/qr-platba",
 	"type": "library",
 	"description": "Generování QR plateb a faktur v PHP.",
 	"keywords": [
